@@ -1,1 +1,2 @@
 # GoogleColabTest
+Google ColaboratoryからGithubにプッシュするテストです。
